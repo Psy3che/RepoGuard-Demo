@@ -1,0 +1,499 @@
+[
+  {
+    "id": "1a887e73-ff0e-4193-92d7-0a28811707f3",
+    "name": "灰色上衣-20260303-191015",
+    "category": "bottom",
+    "color_name": "灰色",
+    "color_rgb": [
+      162,
+      135,
+      119
+    ],
+    "original_file": "05cdfa18_orig.png",
+    "cutout_file": "05cdfa18_cut.png",
+    "created_at": "2026-03-03T19:10:16",
+    "brand": "未设置",
+    "season": [
+      "夏"
+    ],
+    "wear_count": 0,
+    "last_worn": "2026-03-03T19:10:16"
+  },
+  {
+    "id": "8889b3a5-f676-493b-b857-2dadd5b56a34",
+    "name": "灰色上衣-20260305-143543",
+    "category": "top",
+    "color_name": "灰色",
+    "color_rgb": [
+      182,
+      161,
+      138
+    ],
+    "original_file": "d93a742f_orig.png",
+    "cutout_file": "d93a742f_cut.png",
+    "created_at": "2026-03-05T14:35:44",
+    "brand": "未设置",
+    "season": [
+      "全年"
+    ],
+    "wear_count": 0,
+    "last_worn": "2026-03-05T14:35:44"
+  },
+  {
+    "id": "de33c15f-32d0-4bb2-a27b-5dd3bee020ab",
+    "name": "灰色上衣-20260309-155452",
+    "category": "top",
+    "color_name": "灰色",
+    "color_rgb": [
+      144,
+      144,
+      137
+    ],
+    "original_file": "bacbf148_orig.png",
+    "cutout_file": "bacbf148_cut.png",
+    "created_at": "2026-03-09T15:54:53",
+    "brand": "未设置",
+    "season": [
+      "全年"
+    ],
+    "wear_count": 0,
+    "last_worn": "2026-03-09T15:54:53"
+  },
+  {
+    "id": "b9f6526a-821a-48f2-9c17-4940e3c5fd7d",
+    "name": "灰色上衣-20260309-155624",
+    "category": "top",
+    "color_name": "灰色",
+    "color_rgb": [
+      161,
+      140,
+      119
+    ],
+    "original_file": "32993007_orig.png",
+    "cutout_file": "32993007_cut.png",
+    "created_at": "2026-03-09T15:56:24",
+    "brand": "未设置",
+    "season": [
+      "全年"
+    ],
+    "wear_count": 0,
+    "last_worn": "2026-03-09T15:56:24"
+  },
+  {
+    "id": "03afb1d8-68a8-4bb5-8f6f-d57a44874c96",
+    "name": "白色基础T恤",
+    "category": "top",
+    "color_name": "白色",
+    "color_rgb": [
+      240,
+      240,
+      240
+    ],
+    "original_file": "ac5ccaa5_orig.png",
+    "cutout_file": "ac5ccaa5_cut.png",
+    "created_at": "2026-01-01T00:00:00",
+    "brand": "UNIQLO",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "wear_count": 12,
+    "last_worn": "2026-01-13T00:00:00"
+  },
+  {
+    "id": "0d73086b-b575-43a0-a7ec-427ad751e255",
+    "name": "藏青色条纹衬衫",
+    "category": "top",
+    "color_name": "藏青色",
+    "color_rgb": [
+      25,
+      57,
+      112
+    ],
+    "original_file": "8b184869_orig.png",
+    "cutout_file": "8b184869_cut.png",
+    "created_at": "2026-01-06T00:00:00",
+    "brand": "Ralph Lauren",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "wear_count": 7,
+    "last_worn": "2026-01-13T00:00:00"
+  },
+  {
+    "id": "d85ffa32-bb04-4fb8-8795-f4b048dfea46",
+    "name": "黑色高领毛衣",
+    "category": "top",
+    "color_name": "黑色",
+    "color_rgb": [
+      30,
+      30,
+      30
+    ],
+    "original_file": "c1ab45da_orig.png",
+    "cutout_file": "c1ab45da_cut.png",
+    "created_at": "2026-01-11T00:00:00",
+    "brand": "ZARA",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "wear_count": 15,
+    "last_worn": "2026-01-26T00:00:00"
+  },
+  {
+    "id": "f7fea549-fd9b-46e7-b1e6-fd6c2ad40ff2",
+    "name": "米色针织开衫",
+    "category": "top",
+    "color_name": "米色",
+    "color_rgb": [
+      212,
+      196,
+      168
+    ],
+    "original_file": "25583193_orig.png",
+    "cutout_file": "25583193_cut.png",
+    "created_at": "2026-01-16T00:00:00",
+    "brand": "COS",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "wear_count": 9,
+    "last_worn": "2026-01-25T00:00:00"
+  },
+  {
+    "id": "ce7d1b0c-67d5-4fb3-98ec-6101edf4c67a",
+    "name": "粉色泡泡袖上衣",
+    "category": "top",
+    "color_name": "粉色",
+    "color_rgb": [
+      255,
+      182,
+      193
+    ],
+    "original_file": "3f44c565_orig.png",
+    "cutout_file": "3f44c565_cut.png",
+    "created_at": "2026-01-21T00:00:00",
+    "brand": "ZARA",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "wear_count": 4,
+    "last_worn": "2026-01-25T00:00:00"
+  },
+  {
+    "id": "6eaade79-1a92-4493-a1ff-377b41d58d89",
+    "name": "深蓝直筒牛仔裤",
+    "category": "bottom",
+    "color_name": "蓝色",
+    "color_rgb": [
+      45,
+      85,
+      155
+    ],
+    "original_file": "2a661318_orig.png",
+    "cutout_file": "2a661318_cut.png",
+    "created_at": "2026-01-26T00:00:00",
+    "brand": "Levi's",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "wear_count": 20,
+    "last_worn": "2026-02-15T00:00:00"
+  },
+  {
+    "id": "b460d137-e8f0-4c89-843e-7d732ad42524",
+    "name": "黑色西装裤",
+    "category": "bottom",
+    "color_name": "黑色",
+    "color_rgb": [
+      28,
+      28,
+      28
+    ],
+    "original_file": "f62dea73_orig.png",
+    "cutout_file": "f62dea73_cut.png",
+    "created_at": "2026-01-31T00:00:00",
+    "brand": "MASSIMO DUTTI",
+    "season": [
+      "全年"
+    ],
+    "wear_count": 18,
+    "last_worn": "2026-02-18T00:00:00"
+  },
+  {
+    "id": "c87a77de-fb6f-4c40-8edf-34412f55ed56",
+    "name": "卡其色休闲裤",
+    "category": "bottom",
+    "color_name": "卡其色",
+    "color_rgb": [
+      195,
+      176,
+      145
+    ],
+    "original_file": "90163da1_orig.png",
+    "cutout_file": "90163da1_cut.png",
+    "created_at": "2026-02-05T00:00:00",
+    "brand": "UNIQLO",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "wear_count": 11,
+    "last_worn": "2026-02-16T00:00:00"
+  },
+  {
+    "id": "95bdc6d3-17e4-403f-b47c-10272a675ef0",
+    "name": "白色阔腿裤",
+    "category": "bottom",
+    "color_name": "白色",
+    "color_rgb": [
+      245,
+      245,
+      245
+    ],
+    "original_file": "7fe3d3c6_orig.png",
+    "cutout_file": "7fe3d3c6_cut.png",
+    "created_at": "2026-02-10T00:00:00",
+    "brand": "H&M",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "wear_count": 5,
+    "last_worn": "2026-02-15T00:00:00"
+  },
+  {
+    "id": "38e5a3af-9e88-448e-993e-fef56bcf5cdc",
+    "name": "驼色羊毛大衣",
+    "category": "outer",
+    "color_name": "棕色",
+    "color_rgb": [
+      180,
+      130,
+      70
+    ],
+    "original_file": "942ca7ec_orig.png",
+    "cutout_file": "942ca7ec_cut.png",
+    "created_at": "2026-02-15T00:00:00",
+    "brand": "Max Mara",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "wear_count": 8,
+    "last_worn": "2026-02-23T00:00:00"
+  },
+  {
+    "id": "de43f190-7e82-40a7-b031-0d7730e0ec37",
+    "name": "黑色皮质夹克",
+    "category": "outer",
+    "color_name": "黑色",
+    "color_rgb": [
+      20,
+      20,
+      20
+    ],
+    "original_file": "7908c58d_orig.png",
+    "cutout_file": "7908c58d_cut.png",
+    "created_at": "2026-02-20T00:00:00",
+    "brand": "ZARA",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "wear_count": 6,
+    "last_worn": "2026-02-26T00:00:00"
+  },
+  {
+    "id": "073f77fe-dad5-40e5-b10e-53effe54ca8a",
+    "name": "军绿色工装外套",
+    "category": "outer",
+    "color_name": "军绿色",
+    "color_rgb": [
+      85,
+      107,
+      47
+    ],
+    "original_file": "096938bd_orig.png",
+    "cutout_file": "096938bd_cut.png",
+    "created_at": "2026-02-25T00:00:00",
+    "brand": "H&M",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "wear_count": 3,
+    "last_worn": "2026-02-28T00:00:00"
+  },
+  {
+    "id": "c85f099d-53f6-4786-afac-90bd5827e0ea",
+    "name": "黑色小礼裙",
+    "category": "dress",
+    "color_name": "黑色",
+    "color_rgb": [
+      25,
+      25,
+      25
+    ],
+    "original_file": "a261eb38_orig.png",
+    "cutout_file": "a261eb38_cut.png",
+    "created_at": "2026-03-02T00:00:00",
+    "brand": "ZARA",
+    "season": [
+      "全年"
+    ],
+    "wear_count": 2,
+    "last_worn": "2026-03-04T00:00:00"
+  },
+  {
+    "id": "20015d52-f717-41e9-a97a-e45fcf460979",
+    "name": "碎花连衣裙",
+    "category": "dress",
+    "color_name": "粉色",
+    "color_rgb": [
+      255,
+      200,
+      210
+    ],
+    "original_file": "391e0f78_orig.png",
+    "cutout_file": "391e0f78_cut.png",
+    "created_at": "2026-03-07T00:00:00",
+    "brand": "MANGO",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "wear_count": 5,
+    "last_worn": "2026-03-12T00:00:00"
+  },
+  {
+    "id": "955813ec-c149-4bcb-a1ba-e958cb8d5cc4",
+    "name": "白色小白鞋",
+    "category": "shoes",
+    "color_name": "白色",
+    "color_rgb": [
+      248,
+      248,
+      248
+    ],
+    "original_file": "04d45001_orig.png",
+    "cutout_file": "04d45001_cut.png",
+    "created_at": "2026-03-12T00:00:00",
+    "brand": "Adidas",
+    "season": [
+      "全年"
+    ],
+    "wear_count": 25,
+    "last_worn": "2026-04-06T00:00:00"
+  },
+  {
+    "id": "184c1be0-8b03-46a6-a073-6f9306d17f0d",
+    "name": "黑色切尔西靴",
+    "category": "shoes",
+    "color_name": "黑色",
+    "color_rgb": [
+      22,
+      22,
+      22
+    ],
+    "original_file": "af0dc3ce_orig.png",
+    "cutout_file": "af0dc3ce_cut.png",
+    "created_at": "2026-03-17T00:00:00",
+    "brand": "Dr. Martens",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "wear_count": 14,
+    "last_worn": "2026-03-31T00:00:00"
+  },
+  {
+    "id": "5c0be6f5-9a75-4f3a-a0fc-ee25e6abfb1c",
+    "name": "棕色乐福鞋",
+    "category": "shoes",
+    "color_name": "棕色",
+    "color_rgb": [
+      139,
+      90,
+      43
+    ],
+    "original_file": "83e15676_orig.png",
+    "cutout_file": "83e15676_cut.png",
+    "created_at": "2026-03-22T00:00:00",
+    "brand": "Clarks",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "wear_count": 10,
+    "last_worn": "2026-04-01T00:00:00"
+  },
+  {
+    "id": "fb82679a-95c6-40db-97a7-d98c6e02fc75",
+    "name": "米色托特包",
+    "category": "bags",
+    "color_name": "米色",
+    "color_rgb": [
+      220,
+      205,
+      180
+    ],
+    "original_file": "aaecfe68_orig.png",
+    "cutout_file": "aaecfe68_cut.png",
+    "created_at": "2026-03-27T00:00:00",
+    "brand": "COS",
+    "season": [
+      "全年"
+    ],
+    "wear_count": 16,
+    "last_worn": "2026-04-12T00:00:00"
+  },
+  {
+    "id": "cca19cba-2df0-4d5d-8f7d-249b2b203511",
+    "name": "黑色链条小包",
+    "category": "bags",
+    "color_name": "黑色",
+    "color_rgb": [
+      20,
+      20,
+      20
+    ],
+    "original_file": "0ea99f1c_orig.png",
+    "cutout_file": "0ea99f1c_cut.png",
+    "created_at": "2026-04-01T00:00:00",
+    "brand": "ZARA",
+    "season": [
+      "全年"
+    ],
+    "wear_count": 7,
+    "last_worn": "2026-04-08T00:00:00"
+  },
+  {
+    "id": "ed6cd0f2-05ca-499a-835f-1ede1f9f2a0c",
+    "name": "金色细链项链",
+    "category": "accessories",
+    "color_name": "黄色",
+    "color_rgb": [
+      212,
+      175,
+      55
+    ],
+    "original_file": "760b3c83_orig.png",
+    "cutout_file": "760b3c83_cut.png",
+    "created_at": "2026-04-06T00:00:00",
+    "brand": "Pandora",
+    "season": [
+      "全年"
+    ],
+    "wear_count": 22,
+    "last_worn": "2026-04-28T00:00:00"
+  }
+]

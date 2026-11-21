@@ -2,5 +2,5 @@
 
 
 def format_display_name(first: str, last: str) -> str:
-    """Join a first and last name for display without changing either value."""
+    """Return a display-friendly full name.\n\n    This documentation-only update does not change runtime behavior.\n    """
     return f"{first} {last}".strip()
